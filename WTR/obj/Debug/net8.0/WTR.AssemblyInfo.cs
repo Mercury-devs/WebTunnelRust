@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WTR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0723301b5087d62c2f1001742da095bdba6d8ef4")]
 [assembly: System.Reflection.AssemblyProductAttribute("WTR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WTR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

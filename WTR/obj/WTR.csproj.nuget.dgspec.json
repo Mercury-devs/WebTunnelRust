@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mirin\\OneDrive\\Документы\\GitHub\\cf-site\\WTR\\WTR\\WTR.csproj": {}
+    "C:\\Users\\mirin\\OneDrive\\Документы\\GitHub\\WebTunnelRust\\WTR\\WTR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mirin\\OneDrive\\Документы\\GitHub\\cf-site\\WTR\\WTR\\WTR.csproj": {
+    "C:\\Users\\mirin\\OneDrive\\Документы\\GitHub\\WebTunnelRust\\WTR\\WTR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mirin\\OneDrive\\Документы\\GitHub\\cf-site\\WTR\\WTR\\WTR.csproj",
+        "projectUniqueName": "C:\\Users\\mirin\\OneDrive\\Документы\\GitHub\\WebTunnelRust\\WTR\\WTR.csproj",
         "projectName": "WTR",
-        "projectPath": "C:\\Users\\mirin\\OneDrive\\Документы\\GitHub\\cf-site\\WTR\\WTR\\WTR.csproj",
+        "projectPath": "C:\\Users\\mirin\\OneDrive\\Документы\\GitHub\\WebTunnelRust\\WTR\\WTR.csproj",
         "packagesPath": "C:\\Users\\mirin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mirin\\OneDrive\\Документы\\GitHub\\cf-site\\WTR\\WTR\\obj\\",
+        "outputPath": "C:\\Users\\mirin\\OneDrive\\Документы\\GitHub\\WebTunnelRust\\WTR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mirin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,12 +53,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[8.0.4, 8.0.4]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -68,11 +62,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "linux-x64": {
-          "#import": []
         }
       }
     }

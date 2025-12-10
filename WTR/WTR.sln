@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTR", "WTR\WTR.csproj", "{1BF2EEF0-AC67-4EAA-9E64-574A19B1557B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTR", "WTR.csproj", "{1BF2EEF0-AC67-4EAA-9E64-574A19B1557B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
