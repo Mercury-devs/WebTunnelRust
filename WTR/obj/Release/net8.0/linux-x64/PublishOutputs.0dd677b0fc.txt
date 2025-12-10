@@ -1,7 +1,0 @@
-C:\Users\mirin\OneDrive\Документы\GitHub\cf-site\WTR\WTR\bin\Release\net8.0\linux-x64\publish\WTR
-C:\Users\mirin\OneDrive\Документы\GitHub\cf-site\WTR\WTR\bin\Release\net8.0\linux-x64\publish\appsettings.Development.json
-C:\Users\mirin\OneDrive\Документы\GitHub\cf-site\WTR\WTR\bin\Release\net8.0\linux-x64\publish\appsettings.json
-C:\Users\mirin\OneDrive\Документы\GitHub\cf-site\WTR\WTR\bin\Release\net8.0\linux-x64\publish\WTR.dll
-C:\Users\mirin\OneDrive\Документы\GitHub\cf-site\WTR\WTR\bin\Release\net8.0\linux-x64\publish\WTR.deps.json
-C:\Users\mirin\OneDrive\Документы\GitHub\cf-site\WTR\WTR\bin\Release\net8.0\linux-x64\publish\WTR.runtimeconfig.json
-C:\Users\mirin\OneDrive\Документы\GitHub\cf-site\WTR\WTR\bin\Release\net8.0\linux-x64\publish\WTR.pdb
